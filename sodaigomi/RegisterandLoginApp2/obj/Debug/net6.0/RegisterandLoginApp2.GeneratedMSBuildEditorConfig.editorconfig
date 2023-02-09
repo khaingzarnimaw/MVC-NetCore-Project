@@ -1,0 +1,168 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RegisterandLoginApp2
+build_property.RootNamespace = RegisterandLoginApp2
+build_property.ProjectDir = C:\Users\user\Desktop\粗大ゴミ\myrepo\sodaigomi\RegisterandLoginApp2\RegisterandLoginApp2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\粗大ゴミ\myrepo\sodaigomi\RegisterandLoginApp2\RegisterandLoginApp2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/acs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/acs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/acs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/acs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/acs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Home/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemLists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUxpc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemStocks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVN0b2Nrc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemStocks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVN0b2Nrc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemStocks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVN0b2Nrc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemStocks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVN0b2Nrc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/ItemStocks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVN0b2Nrc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Login/LoginSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5TdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/mirrors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWlycm9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/mirrors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWlycm9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/mirrors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWlycm9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/mirrors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWlycm9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/mirrors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWlycm9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/refrigerators/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVmcmlnZXJhdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/refrigerators/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVmcmlnZXJhdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/refrigerators/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVmcmlnZXJhdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/refrigerators/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVmcmlnZXJhdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/refrigerators/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVmcmlnZXJhdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Shared/_Mylayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeWxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/粗大ゴミ/myrepo/sodaigomi/RegisterandLoginApp2/RegisterandLoginApp2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oggm6e6bvv

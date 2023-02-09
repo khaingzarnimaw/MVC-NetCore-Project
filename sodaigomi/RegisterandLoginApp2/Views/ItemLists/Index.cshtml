@@ -1,0 +1,77 @@
+﻿<div id="containment"> 
+<div id="containment-shadow-left ">
+        
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">MAW</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <input type="radio" id="All" name="categories" value="All" checked>
+    <input type="radio" id="SALE" name="categories" value="SALE">
+    <input type="radio" id="NOTAVAIL" name="categories" value="NOTAVAIL">
+
+    <ol class="filters">
+  <li>
+    <label for="All">All</label>
+  
+  
+    <label for="SALE">SALE</label>
+  
+  
+    <label for="NOTAVAIL">NOTAVAIL</label>
+ </li>
+  </ol>
+  
+  <ol class="posts">
+ <li class="post" data-category="SALE">
+ <article>
+  <figure>
+        <a class="nav-link text-dark" asp-area="" asp-controller="ItemStocks">テブル</a>
+      <img src="~/lib/k1.jpg" style="width:300px"/>
+    </a>
+  </figure>
+</article>
+    </li>
+
+    <li class="post" data-category="NOTAVAIL">
+ <article>
+  <figure>
+     <a class="nav-link text-dark" asp-area="" asp-controller="acs">エアコン</a>
+      <img src="~/lib/k3.jpg" style="width:300px"/>
+    </a>
+  </figure>
+</article>
+    </li>
+
+     <li class="post" data-category="SALE">
+ <article>
+  <figure>
+     <a class="nav-link text-dark" asp-area="" asp-controller="mirrors">かがみ</a>
+       <img src="~/lib/k4.jpg" style="width:300px"/>
+    </a>
+  </figure>
+  <article>
+  <figure>
+     <a class="nav-link text-dark" asp-area="" asp-controller="refrigerators">冷蔵庫</a>
+       <img src="~/lib/k6.jpg" style="width:300px"/>
+    </a>
+  </figure>
+
+
+
+</article>
+    </li>
+    </ol>
+</div>
+
+
+
+    
+    </div>
+</div>
+
